@@ -1,0 +1,6 @@
+Collaborated on a 3-member team to design and develop a quadruped robot prototype, equipped with 3R manipulators on each leg, as a proof-of-concept for a home surveillance robot.
+Utilized Python and Arduino IDE to implement inverse and forward kinematics, enabling the robot to navigate and interact with its environment.
+The robot is designed to detect and respond to critical events in the home, such as:
+Fall detection: alerting the head of the household if an elderly person or child falls down.
+Intruder detection: notifying the head of the household if an unauthorized person enters the home.
+The robot will report these events in real-time, providing an added layer of safety and security for families.
